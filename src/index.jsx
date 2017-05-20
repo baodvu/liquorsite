@@ -13,6 +13,7 @@ import Rum from './content/rum.jsx'
 import Whiskey from './content/whiskey.jsx'
 import Contact from './content/contact.jsx'
 import Footer from './footer.jsx'
+import NotFound from './notfound'
 
 let reducer = (state = {}, action) => {}
 
@@ -32,6 +33,7 @@ const App = () => (
         <Route path='/rum' component={Rum}/>
         <Route path='/whiskey' component={Whiskey}/>
         <Route path='/contact' component={Contact}/>
+        <Route path='*' component={NotFound}/>
       </Switch>
       <Footer />
     </div>
