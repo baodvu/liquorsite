@@ -1709,6 +1709,7 @@
 	#footer-wrapper {
 		position: relative;
 		color: #858484;
+		border-top: 10px solid #8cbf40;
 	}
 
 		#footer-wrapper:before {
