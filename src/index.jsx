@@ -24,6 +24,7 @@ const App = () => (
       <Header />
       <Switch>
         <Route exact path='/' component={Home}/>
+        <Route path='/home' component={Home}/>
         <Route path='/wine' component={Wine}/>
         <Route path='/vodka' component={Vodka}/>
         <Route path='/champagne' component={Champagne}/>
