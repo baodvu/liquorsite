@@ -1,7 +1,5 @@
 @import url("font-awesome.min.css");
 @import url("css/bubbles.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
-@import url('https://fonts.googleapis.com/css?family=Euphoria+Script|Josefin+Slab');
 @import url('https://fonts.googleapis.com/css?family=Euphoria+Script|Raleway');
 
 /* Reset */
@@ -1068,8 +1066,7 @@
 
 	body {
 		background: #252122 !important;
-		background-image: url("images/bg02.png");
-		font-family: 'Source Sans Pro';
+		font-family: 'Raleway';
 		font-weight: 300;
 		color: #5d5d5d;
 	}
@@ -1695,7 +1692,7 @@
 
 	#main-wrapper {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #f7f7f7;
 	}
 
 		#main-wrapper:before {
@@ -1704,14 +1701,9 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.1;
-		}
-
-		#main-wrapper .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
 		}
 
 	#footer-wrapper {
@@ -1725,7 +1717,6 @@
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.5;
@@ -2337,7 +2328,6 @@
 				width: 275px;
 				z-index: 10002;
 				color: #858484;
-				background-image: url("images/bg02.png");
 				box-shadow: inset -3px 0px 5px 0px rgba(0, 0, 0, 0.35);
 			}
 
