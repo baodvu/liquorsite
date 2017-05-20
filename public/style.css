@@ -1692,7 +1692,7 @@
 
 	#main-wrapper {
 		position: relative;
-		background: #f7f7f7;
+		background: #f7f7f7 url('/img/grape_bg.png');
 	}
 
 		#main-wrapper:before {
@@ -1775,7 +1775,7 @@
 			}
 
 			h3 {
-				font-size: 1.75em;
+				font-size: 1.5em;
 			}
 
 		/* Section/Article */
