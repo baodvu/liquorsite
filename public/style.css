@@ -1065,7 +1065,7 @@
 /* Basic */
 
 	body {
-		background: #252122 !important;
+		background: #353535 !important;
 		font-family: 'Raleway';
 		font-weight: 300;
 		color: #5d5d5d;
@@ -1738,6 +1738,7 @@
 		#footer-wrapper ul.contact li, #footer-wrapper ul.dates li, #footer-wrapper ul.divided li {
 			border-top-color: #353434;
 			border-top-color: rgba(255, 255, 255, 0.05);
+			padding-left: 0;
 		}
 
 /* Intro */
@@ -2412,6 +2413,7 @@
 				padding: 2em 25px;
 				overflow: hidden;
 				-webkit-transform: translateZ(0);
+				text-align: center;
 			}
 
 		/* Intro */
