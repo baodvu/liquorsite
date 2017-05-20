@@ -1658,7 +1658,7 @@
 /* Banner */
 
 	#banner {
-		background: #48303d;
+		background: #353535;
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2074,7 +2074,7 @@
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 1em 0 3em 0;
+				padding: 1em 0;
 			}
 
 			#main-wrapper {
