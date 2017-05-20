@@ -11,7 +11,7 @@ class Header extends React.Component {
     return (
       <div id="header-wrapper">
         <div id="header">
-          <div><img src="img/ace_logo.png"/></div>
+          <div><img src="/img/ace_logo.png"/></div>
           <nav id="nav">
             <ul>
               <li><NavLink to="/">Home</NavLink></li>
