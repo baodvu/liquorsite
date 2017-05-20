@@ -26,7 +26,7 @@ class Home extends Component {
                   <div className="row">
                     <div className="6u 12u(mobile)">
                       <section className="box">
-                        <a className="image featured"><img src="img/02.jpg" alt=""/></a>
+                        <a className="image featured"><img src="/img/02.jpg" alt=""/></a>
                         <header>
                           <h2>Your One-Stop Destination</h2>
                           <span>variety is what we’re about</span>
@@ -44,7 +44,7 @@ class Home extends Component {
 
                     <div className="6u 12u(mobile)">
                       <section className="box">
-                        <a className="image featured"><img src="img/03.jpg" alt=""/></a>
+                        <a className="image featured"><img src="/img/03.jpg" alt=""/></a>
                         <header>
                           <h2>Never Before Specials!</h2>
                           <span>don't miss our sweet deals</span>
