@@ -13,7 +13,7 @@ import Rum from './content/rum.jsx'
 import Whiskey from './content/whiskey.jsx'
 import Contact from './content/contact.jsx'
 import Footer from './footer.jsx'
-import NotFound from './notfound'
+import NotFound from './notfound.jsx'
 
 let reducer = (state = {}, action) => {}
 
