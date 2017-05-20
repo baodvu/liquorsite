@@ -14,7 +14,7 @@ class Home extends Component {
             <p style={{fontSize: '1.5em', fontWeight: '500', color: '#8fb754', letterSpacing:'8px'}}>TASTING EVENT</p>
             <div style={{width: '50%', margin: '25px auto', paddingTop: '10px', borderTop: '1px solid #8fb754'}}>
               <p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>FRIDAY, JUNE 2, 2017</p>
-              <p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>10am - 6pm</p>
+              <p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>4 - 7pm</p>
             </div>
           </div>
         </section>
