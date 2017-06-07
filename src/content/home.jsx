@@ -8,16 +8,16 @@ class Home extends Component {
   render(){
     return (
       <div>
-        <section id="banner" className="bubbles">
-          <div>
-            <p style={{fontSize: '7em', fontWeight: '500', color: '#fffbe2', lineHeight:'100px'}}>WINE</p>
-            <p style={{fontSize: '1.5em', fontWeight: '500', color: '#8fb754', letterSpacing:'8px'}}>TASTING EVENT</p>
-            <div style={{width: '50%', margin: '25px auto', paddingTop: '10px', borderTop: '1px solid #8fb754'}}>
-              <p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>FRIDAY, JUNE 2, 2017</p>
-              <p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>4 - 7pm</p>
-            </div>
-          </div>
-        </section>
+        {/*<section id="banner">*/}
+          {/*<div>*/}
+            {/*<p style={{fontSize: '7em', fontWeight: '500', color: '#fffbe2', lineHeight:'100px'}}>WINE</p>*/}
+            {/*<p style={{fontSize: '1.5em', fontWeight: '500', color: '#8fb754', letterSpacing:'8px'}}>TASTING EVENT</p>*/}
+            {/*<div style={{width: '50%', margin: '25px auto', paddingTop: '10px', borderTop: '1px solid #8fb754'}}>*/}
+              {/*<p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>FRIDAY, JUNE 2, 2017</p>*/}
+              {/*<p style={{fontSize: '1.25em', fontWeight: '500', color: '#fffbe2'}}>4 - 7pm</p>*/}
+            {/*</div>*/}
+          {/*</div>*/}
+        {/*</section>*/}
         <div id="main-wrapper">
           <div className="container">
             <div className="row">
